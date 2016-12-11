@@ -1,0 +1,1 @@
+This folder contains all the files in the database->migrations folder. These files are used to create the sql table using php artisan migrate command.
